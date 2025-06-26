@@ -1,6 +1,6 @@
 # RepairWizard 🔧
 
-**Intelligent Device Repair Search API** - A comprehensive Node.js backend that integrates with iFixit's API to provide hierarchical device repair search functionality.
+ A comprehensive Node.js backend that integrates with iFixit's API to provide hierarchical device repair search functionality.
 
 ## 🚀 Live Demo
 
@@ -196,7 +196,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [iFixit](https://www.ifixit.com/) for providing the repair guide API
 - [shadcn/ui](https://ui.shadcn.com/) for the beautiful component library
 - [Radix UI](https://www.radix-ui.com/) for accessible primitives
-
----
-
-**Built for technical recruitment demonstration** | **Full-stack TypeScript application showcasing modern web development practices**
